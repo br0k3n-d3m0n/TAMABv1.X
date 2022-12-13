@@ -1,0 +1,1 @@
+@echo off && @echo accediendo a las herramientas PsExec && cd PSTools && cmd /k && @echo
