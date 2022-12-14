@@ -1,2 +1,8 @@
+@echo off
+mode con:cols=200 lines=55
 color 02 && title TAMAB && prompt root@TAMAB#
-cls && echo Bienvenido al Terminal de Acarreo Masivo Anti Bolivia 1.75 && cmd /k
+cls && echo Terminal de Acarreo Masivo Anti Bolivia Ver. 1.75.1
+@echo off && chcp 65001
+type br0k3n.txt
+echo
+cmd /k
