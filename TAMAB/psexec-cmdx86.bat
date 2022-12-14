@@ -1,1 +1,0 @@
-@echo off && @echo accediendo a los terminales agregados && cd psexec -cmdx86 && cmd /k && @echo
