@@ -1,5 +1,9 @@
 # TAMAB
 
+¡ATENCION!
+
+Este programa requiere las PsTools de SysInternals y ñadirlas a la ruta de PATH en las variables de entorno
+
 TAMAB 1.75.1
 
 Este programa es un proyecto de clase
